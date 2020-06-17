@@ -13,13 +13,13 @@ To get the project running locally:
 2. Clone this repository:
 
 ```
-$ git clone https://github.com/frahad/react-articles
+$ git clone https://github.com/frahad/react-articles-web
 ```
 
 3. Open the project folder:
 
 ```
-$ cd react-articles
+$ cd react-articles-web
 ```
 
 4. Install all required dependencies:
